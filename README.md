@@ -1,2 +1,2 @@
-# Activity-Timers-Public
-Code for 'Activity Timers' Flutter application prototype.
+# TE3001-PROJECT-2-FILES
+ 
